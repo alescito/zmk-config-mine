@@ -1,5 +1,0 @@
-if SHIELD_MICRODOX
-
-config ZMK_MICRODOX
-	default "Microdox"
-endif
